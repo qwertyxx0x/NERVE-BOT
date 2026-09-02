@@ -1,4 +1,5 @@
 # NERVE
+![Uploading image.png…]()
 
 **Grok-powered risk decisions for high-velocity token launches. Paper execution by default.**
 
