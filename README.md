@@ -1,4 +1,5 @@
-<img width="1510" height="787" alt="image" src="https://github.com/user-attachments/assets/e55dfe54-a387-40f7-9093-f16aa7023d17" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/65ad1f72-b8fb-421b-8b4e-e33fa72322b6" />
+
 
 # NERVE
 
