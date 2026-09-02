@@ -1,0 +1,16 @@
+{
+  "name": "nerve-bot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Public proof of NERVE's Grok decision layer and paper executor.",
+  "scripts": {
+    "demo": "node --env-file-if-exists=.env src/demo.mjs",
+    "demo:mock": "node src/demo.mjs --mock",
+    "check": "node --check src/decision-schema.mjs && node --check src/grok-client.mjs && node --check src/policy-gate.mjs && node --check src/paper-executor.mjs && node --check src/demo.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+
